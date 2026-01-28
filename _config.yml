@@ -21,7 +21,7 @@ bibtex_bibfiles:
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/username/repository
+  url: https://github.com/WimCasteels/math-foun
   path_to_book: ""
   branch: main
 

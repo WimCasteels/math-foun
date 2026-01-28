@@ -1,5 +1,6 @@
 # Jupyter Book (v0.15 is stable Sphinx-based version)
 jupyter-book>=0.15,<1.0
+sphinx-proof
 
 # Jupyter
 jupyter
