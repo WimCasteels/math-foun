@@ -1,0 +1,72 @@
+# Book settings
+title: Mathematical Foundations
+author: Wim Casteels
+copyright: "2026"
+logo: assets/logo.png
+
+# Force re-execution of notebooks on each build.
+# See https://jupyterbook.org/content/execute.html
+execute:
+  execute_notebooks: auto
+  timeout: 300
+
+# Define the name of the latex output file for PDF builds
+latex:
+  latex_documents:
+    targetname: book.tex
+
+# Add a bibtex file so that we can create citations
+bibtex_bibfiles:
+  - references.bib
+
+# Information about where the book exists on the web
+repository:
+  url: https://github.com/username/repository
+  path_to_book: ""
+  branch: main
+
+# Add GitHub buttons to your book
+html:
+  use_issues_button: true
+  use_repository_button: true
+  use_edit_page_button: true
+  home_page_in_navbar: false
+  thebe:
+    configure:
+      requestKernel: true
+
+# Hide code cells by default
+mystnb:
+  execution_mode: "off"
+  execution_allow_errors: false
+  execution_timeout: 300
+
+# Launch button settings
+launch_buttons:
+  notebook_interface: classic
+  binderhub_url: ""
+  colab_url: https://colab.research.google.com
+
+# MyST extensions
+parse:
+  myst_enable_extensions:
+    - colon_fence
+    - dollarmath
+    - linkify
+    - substitution
+    - tasklist
+    - deflist
+    - amsmath
+
+# Sphinx configuration
+sphinx:
+  extra_extensions:
+    - sphinx_proof
+  config:
+    language: nl
+    html_show_copyright: true
+    mathjax_path: https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+    html_extra_path:
+      - "_static"
+
+only_build_toc_files: true

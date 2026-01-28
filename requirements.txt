@@ -1,0 +1,21 @@
+# Jupyter Book (v0.15 is stable Sphinx-based version)
+jupyter-book>=0.15,<1.0
+
+# Jupyter
+jupyter
+jupyterlab
+ipykernel
+
+# Data Science packages (voor notebooks)
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+sympy
+torch
+torchvision
+
+# Extra visualisatie
+seaborn
+plotly
