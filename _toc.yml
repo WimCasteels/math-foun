@@ -6,7 +6,5 @@ root: intro
 parts:
   - caption: Introductie
     chapters:
-      - file: content/introductie/cursusoverzicht
       - file: content/introductie/les01_theorie
       - file: content/introductie/les01_labo
-      - file: content/introductie/les01_labo_oplossingen
