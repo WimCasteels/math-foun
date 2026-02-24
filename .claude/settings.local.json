@@ -3,7 +3,8 @@
     "allow": [
       "WebFetch(domain:bamaflexweb.ap.be)",
       "WebFetch(domain:ap-mdi-it.github.io)",
-      "Bash(python:*)"
+      "Bash(python:*)",
+      "Bash(python3:*)"
     ]
   }
 }

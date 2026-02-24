@@ -8,8 +8,13 @@ parts:
     chapters:
       - file: content/introductie/les01_theorie
       - file: content/introductie/les01_labo
-      - file: content/introductie/les01_labo_oplossingen
   - caption: Algebra
     chapters:
       - file: content/algebra/les02_theorie
+      - file: content/algebra/les03_theorie
       - file: content/algebra/les02_labo
+      - file: content/algebra/les03_labo
+  - caption: Oplossingen labo's
+    chapters:
+      - file: content/introductie/les01_labo_oplossingen
+      - file: content/algebra/les02_labo_oplossingen
