@@ -12,9 +12,13 @@ parts:
     chapters:
       - file: content/algebra/les02_theorie
       - file: content/algebra/les03_theorie
+      - file: content/algebra/les04_theorie
       - file: content/algebra/les02_labo
       - file: content/algebra/les03_labo
+      - file: content/algebra/les04_labo
+      - file: content/algebra/examen_vragen_algebra
   - caption: Oplossingen labo's
     chapters:
       - file: content/introductie/les01_labo_oplossingen
       - file: content/algebra/les02_labo_oplossingen
+      - file: content/algebra/les03_labo_oplossingen
