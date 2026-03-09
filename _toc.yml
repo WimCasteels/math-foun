@@ -17,8 +17,13 @@ parts:
       - file: content/algebra/les03_labo
       - file: content/algebra/les04_labo
       - file: content/algebra/examen_vragen_algebra
+  - caption: Analyse
+    chapters:
+      - file: content/analyse/les05_theorie
+      - file: content/analyse/les05_labo
   - caption: Oplossingen labo's
     chapters:
       - file: content/introductie/les01_labo_oplossingen
       - file: content/algebra/les02_labo_oplossingen
       - file: content/algebra/les03_labo_oplossingen
+      - file: content/algebra/les04_labo_oplossingen

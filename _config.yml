@@ -34,6 +34,8 @@ html:
   thebe:
     configure:
       requestKernel: true
+  theme-options:
+    collapse_navigation: true
 
 # Hide code cells by default
 mystnb:
