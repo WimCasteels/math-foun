@@ -21,8 +21,10 @@ parts:
     chapters:
       - file: content/analyse/les05_theorie
       - file: content/analyse/les06_theorie
+      - file: content/analyse/les07_theorie
       - file: content/analyse/les05_labo
       - file: content/analyse/les06_labo
+      - file: content/analyse/les07_labo
   - caption: Oplossingen labo's
     chapters:
       - file: content/introductie/les01_labo_oplossingen
@@ -30,3 +32,4 @@ parts:
       - file: content/algebra/les03_labo_oplossingen
       - file: content/algebra/les04_labo_oplossingen
       - file: content/analyse/les05_labo_oplossingen
+      - file: content/analyse/les06_labo_oplossingen
