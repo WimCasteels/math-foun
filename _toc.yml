@@ -28,7 +28,12 @@ parts:
   - caption: Statistiek
     chapters:
       - file: content/statistiek/les08_theorie
+      - file: content/statistiek/les09_theorie
       - file: content/statistiek/les08_labo
+      - file: content/statistiek/les09_labo
+  - caption: Integratie
+    chapters:
+      - file: content/integratie/les10_theorie
   - caption: Oplossingen labo's
     chapters:
       - file: content/introductie/les01_labo_oplossingen
@@ -38,3 +43,5 @@ parts:
       - file: content/analyse/les05_labo_oplossingen
       - file: content/analyse/les06_labo_oplossingen
       - file: content/analyse/les07_labo_oplossingen
+      - file: content/statistiek/les08_labo_oplossingen
+      - file: content/statistiek/les09_labo_oplossingen
