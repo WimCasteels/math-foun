@@ -25,12 +25,14 @@ parts:
       - file: content/analyse/les05_labo
       - file: content/analyse/les06_labo
       - file: content/analyse/les07_labo
+      - file: content/analyse/examen_vragen_analyse
   - caption: Statistiek
     chapters:
       - file: content/statistiek/les08_theorie
       - file: content/statistiek/les09_theorie
       - file: content/statistiek/les08_labo
       - file: content/statistiek/les09_labo
+      - file: content/statistiek/examen_vragen_statistiek
   - caption: Integratie
     chapters:
       - file: content/integratie/les10_theorie

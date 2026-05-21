@@ -30,3 +30,8 @@ Thumbs.db
 *.temp
 
 .claude/
+
+# oplossingen
+examen_vragen_algebra_oplossingen.ipynb
+examen_vragen_analyse_oplossingen.ipynb
+examen_vragen_statistiek_oplossingen.ipynb
