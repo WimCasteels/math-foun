@@ -35,3 +35,9 @@ Thumbs.db
 examen_vragen_algebra_oplossingen.ipynb
 examen_vragen_analyse_oplossingen.ipynb
 examen_vragen_statistiek_oplossingen.ipynb
+
+# theorie-examenvragen + Moodle-import (niet naar GitHub)
+theorie_examenvragen_*
+
+# praktijkexamen (niet naar GitHub)
+praktijkexamen*.ipynb
